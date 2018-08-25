@@ -1,0 +1,6 @@
+1.	O usuário deverá informar sua idade em anos. O sistema deverá exibir essa mesma informação em dias e em meses.
+2.	Tendo como entrada dois valores inteiros, exiba a soma, subtração, multiplicação e divisão dos respectivos números.
+3.	Ler uma temperatura em graus Centígrados e apresenta-la convertida em graus Fahrenheit. A fórmula de conversão é: F = (9*C+160)/5, onde F é a temperatura em Fahrenheit e C é a temperatura em Centígrados.
+4.	Elabore uma rotina que exiba a média de dois números inteiros fornecidos pelo usuário.
+5.	Efetuar o cálculo da quantidade de litros de combustível gastos em uma viagem, utilizando-se um automóvel que faz 12 Km por litro. Para obter o cálculo, o usuário deverá fornecer o tempo gasto na viagem e a velocidade média durante a mesma. Desta forma, será possível obter a distância percorrida com a fórmula: DISTANCIA = TEMPO*VELOCIDADE. Tendo o valor da distância, basta calcular a quantidade de litros de combustível utilizada na viagem com a fórmula: LITROS_USADOS = DISTANCIA/12. O programa deverá apresentar os valores de velocidade média, tempo gasto na viagem, à distância percorrida e a quantidade de litros utilizados na viagem.
+6.	Leia o salário de um funcionário qualquer. Calcule um aumento de 15%. Exiba o salário reajustado.
